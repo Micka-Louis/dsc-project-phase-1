@@ -107,7 +107,18 @@ Start with Cessna or Piper models: although frequently involved in accidents, th
 # c. 🚀 Next Steps  
 Calculate accident rates per 1,000 flight hours or per 100 aircraft in service (if data is available) to enable fairer comparisons.Deepen analysis by aircraft model, not just manufacturer, to identify the most reliable specific aircraft.Study the most frequent accident causes (e.g., human error, mechanical failure, flight conditions) to pinpoint avoidable risks.Create a "Severity x Frequency" matrix to visualize trade-offs between accident frequency and severity, guiding aircraft purchasing decisions toward controlled-risk models.  
 
-Analyze maintenance costs by manufacturer/model to align safety with economic sustainability.
+Analyze maintenance costs by manufacturer/model to align safety with economic sustainability.  
 
+# For More Information  
+See the full analysis in the Jupyter Notebook or review this presentation.  
+
+For additional info, contact Micka LOUIS at mickalouis25@gmail.com  
+
+# Repository Structure  
+├── data
+├── images
+├── README.md
+├── Final_Presentation.pdf
+└── Final.ipynb
 ​
 
