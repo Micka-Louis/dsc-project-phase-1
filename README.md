@@ -42,6 +42,6 @@ Geographic & weather-related patterns (high-risk states, VMC/IMC conditions).
 The analysis identifies key risk factors and safety improvements, supporting data-driven decision-making for aviation stakeholders.  
 
 # Results
-![Graphique](IMAG.png)
-
+![Graphique](IMAG.png)  
+The bar chart displays the 10 aircraft manufacturers with the lowest number of reported accidents. All other manufacturers have been grouped under 'OTHER' for clarity and simplicity. This analysis highlights a group of manufacturers with very few accident records. However, it is important to note that a low number of reported accidents does not necessarily indicate better safety performance — it may instead reflect a smaller fleet size, limited aircraft production, or infrequent operational use.
 
