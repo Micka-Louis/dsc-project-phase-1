@@ -42,26 +42,6 @@ Geographic & weather-related patterns (high-risk states, VMC/IMC conditions).
 The analysis identifies key risk factors and safety improvements, supporting data-driven decision-making for aviation stakeholders.  
 
 # Results
-# Clean and standardize the 'Make' column (remove whitespace, convert to uppercase)
-df['Make'] = df['Make'].str.strip().str.upper()
-
-# Count accidents per manufacturer and select the 10 with the LOWEST accidents
-manufacturer_counts = df['Make'].value_counts()
-least_accident_makers = manufacturer_counts.sort_values(ascending=True).head(10)
-
-# Visualization
-plt.figure(figsize=(10, 6))
-least_accident_makers.plot(kind='barh', color='seagreen')
-plt.title('Top 10 Manufacturers with the Lowest Number of Accidents')
-plt.xlabel('Number of Accidents')
-plt.ylabel('Aircraft Manufacturer')
-plt.grid(axis='x', linestyle='--', alpha=0.7)
-plt.tight_layout()
-
-# Add value labels to bars for clarity
-for i, v in enumerate(least_accident_makers):
-    plt.text(v + 0.2, i, str(v), color='black')
-
-plt.show()
+![Graphique](IMAG.png)
 
 
