@@ -54,16 +54,5 @@ This visualization helps identify manufacturers with the most exposure in aviati
 ![Graph](IMAG1.png)  
 Conclusion: Accident frequency does not necessarily correlate with accident severity.Small manufacturers may have fewer accidents, but when accidents happen, they tend to be more serious, possibly due to limited safety features, older aircraft, or less regulatory oversight. In contrast, large manufacturers like Cessna and Piper may have more frequent accidents due to a larger fleet size, but their severity is generally lower, indicating better safety standards or more minor incidents.Boeing, however, combines both high accident frequency and high severity, which may reflect the larger size and capacity of its aircraft — a single accident can involve many people.
 
-    State           Accident Count
-  California            8689
-       Texas             5752
-      Florida             5559 
-       Alaska              5541
-      Arizona            2802
-     Colorado            2576
-    Washington            2551
-    Michigan            1980
-    Georgia            1929
-    Illinois            1873
-![image](https://github.com/user-attachments/assets/515243a2-101d-4383-a761-39841a47e966)
+ 
 
