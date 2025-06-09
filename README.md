@@ -51,22 +51,10 @@ The bar chart illustrates the 10 aircraft manufacturers with the highest number 
 For instance, some companies produce a large number of general aviation aircraft used for training, personal flights, and commercial purposes — all of which increase exposure to accident risk over time. It is essential to consider both the number of aircraft in service and the frequency of flights when interpreting these figures, as higher accident counts often reflect broader usage rather than poor design or maintenance practices.  
 
 This visualization helps identify manufacturers with the most exposure in aviation activities and serves as a starting point for deeper analysis into accident causes, aircraft types, and flight conditions.  
+
 ![Graph](IMAG1.png)  
 Conclusion: Accident frequency does not necessarily correlate with accident severity.Small manufacturers may have fewer accidents, but when accidents happen, they tend to be more serious, possibly due to limited safety features, older aircraft, or less regulatory oversight. In contrast, large manufacturers like Cessna and Piper may have more frequent accidents due to a larger fleet size, but their severity is generally lower, indicating better safety standards or more minor incidents.Boeing, however, combines both high accident frequency and high severity, which may reflect the larger size and capacity of its aircraft — a single accident can involve many people.
 
- Top 10 Accidents States 	
-	
-State	Accident Count
-California	8689
-Texas	5752
-Florida	5559
-Alaska	5541
-Arizona	2802
-Colorado	2576
-Washington	2551
-Michigan	1980
-Georgia	1929
-Illinois	1873
-![Uploading image.png…]()
-
+ ![Graph](newplot.png)  
+ California, Texas, and Florida have the highest number of aircraft accidents, making them higher-risk areas for aviation operations. For a company entering this industry, it’s important to factor in geographic risk when choosing where to operate. Starting in lower-risk states may reduce exposure to accidents. If expansion in these high-accident areas is necessary, strong safety measures and maintenance routines are essential. These insights should guide investment choices and aircraft purchases.
 
