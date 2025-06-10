@@ -117,8 +117,8 @@ For additional info, contact Micka LOUIS at mickalouis25@gmail.com
 # Repository Structure  
 ├── data    
 ├── images    
-├── Final_Presentation.pdf  
-├── Final.ipynb  
+├── Final.ipynb 
+├── Final_Presentation.pdf 
 └── README.md  
 ​
 
