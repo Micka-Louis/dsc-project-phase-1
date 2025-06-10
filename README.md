@@ -12,7 +12,7 @@
 ![Cover](images/image1.webp)  
 
 # Overview  
-## This notebook presents a structured analysis of aviation accident data. It follows the CRISP-DM methodology, offering insight into understanding and preparing data for decision-making in aviation safety.  
+This notebook presents a structured analysis of aviation accident data. It follows the CRISP-DM methodology, offering insight into understanding and preparing data for decision-making in aviation safety.  
 
 # Business Understanding    
 ![Business](images/image3.jpg)  
