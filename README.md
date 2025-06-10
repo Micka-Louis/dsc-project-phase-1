@@ -42,20 +42,20 @@ Geographic & weather-related patterns (high-risk states, VMC/IMC conditions).
 The analysis identifies key risk factors and safety improvements, supporting data-driven decision-making for aviation stakeholders.  
 
 # Results
-![Graphique](IMAG.png)  
+![Graphique](images/IMAG.png)  
 The bar chart displays the 10 aircraft manufacturers with the lowest number of reported accidents. All other manufacturers have been grouped under 'OTHER' for clarity and simplicity. This analysis highlights a group of manufacturers with very few accident records. However, it is important to note that a low number of reported accidents does not necessarily indicate better safety performance — it may instead reflect a smaller fleet size, limited aircraft production, or infrequent operational use.
 
-![Graphique](IMAG2.png)
+![Graphique](images/IMAG2.png)
 The bar chart illustrates the 10 aircraft manufacturers with the highest number of reported accidents in the dataset. These manufacturers represent a significant portion of all recorded aviation incidents. The large number of accidents reported for some manufacturers may be due to their widespread use, high production volumes, and long operational history rather than inherently lower safety standards.  
 
 For instance, some companies produce a large number of general aviation aircraft used for training, personal flights, and commercial purposes — all of which increase exposure to accident risk over time. It is essential to consider both the number of aircraft in service and the frequency of flights when interpreting these figures, as higher accident counts often reflect broader usage rather than poor design or maintenance practices.  
 
 This visualization helps identify manufacturers with the most exposure in aviation activities and serves as a starting point for deeper analysis into accident causes, aircraft types, and flight conditions.  
 
-![Graph](IMAG1.png)  
+![Graph](images/IMAG1.png)  
 Conclusion: Accident frequency does not necessarily correlate with accident severity.Small manufacturers may have fewer accidents, but when accidents happen, they tend to be more serious, possibly due to limited safety features, older aircraft, or less regulatory oversight. In contrast, large manufacturers like Cessna and Piper may have more frequent accidents due to a larger fleet size, but their severity is generally lower, indicating better safety standards or more minor incidents.Boeing, however, combines both high accident frequency and high severity, which may reflect the larger size and capacity of its aircraft — a single accident can involve many people.
 
- ![Graph](newplot.png)  
+ ![Graph](images/newplot.png)  
  California, Texas, and Florida have the highest number of aircraft accidents, making them higher-risk areas for aviation operations. For a company entering this industry, it’s important to factor in geographic risk when choosing where to operate. Starting in lower-risk states may reduce exposure to accidents. If expansion in these high-accident areas is necessary, strong safety measures and maintenance routines are essential. These insights should guide investment choices and aircraft purchases.
 
 
