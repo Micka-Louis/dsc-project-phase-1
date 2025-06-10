@@ -115,10 +115,10 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 For additional info, contact Micka LOUIS at mickalouis25@gmail.com  
 
 # Repository Structure  
-├── data
-├── images
-├── README.md
-├── Final_Presentation.pdf
-└── Final.ipynb
+├── data    
+├── images    
+├── Final_Presentation.pdf  
+├── Final.ipynb  
+└── README.md  
 ​
 
