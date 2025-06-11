@@ -117,9 +117,9 @@ For additional info, contact Micka LOUIS at mickalouis25@gmail.com
 # Repository Structure  
 ├── data    
 ├── images    
-├── Final.ipynb 
-├── Final_Presentation.pdf 
-├──Interactive Dashboard.pdf
-└── README.md  
+├── README.md
+├── USaviation.ipynb
+├──USaviationInteractive Dashboard.pdf
+└── USaviation_Presentation.pdf  
 ​
 
